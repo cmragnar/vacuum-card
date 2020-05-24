@@ -1,0 +1,37 @@
+{
+    "status": {
+      "Cleaning": "Städa",
+      "Paused": "Pausad",
+      "Idle": "Inaktiv",
+      "Charging": "Laddar",
+      "Returning home": "Återvänder hem"
+    },
+    "common": {
+      "name": "Vacuum Card",
+      "description": "Med Vacuum card kan du styra din robitdammsugare.",
+      "start": "Starta",
+      "continue": "Fortsätt",
+      "pause": "Pausa",
+      "stop": "Stoppa",
+      "return_to_base": "Återvänd till dockningsstation",
+      "locate": "Lokalisera"
+    },
+    "error": {
+      "missing_entity": "Ange entitet krävs!"
+    },
+    "editor": {
+      "entity": "Entitet (Nödvändig)",
+      "map": "Kamera karta (Valfri)",
+      "image": "Bild (Valfri)",
+      "compact_view": "Kompakt vy",
+      "compact_view_aria_label_on": "Kompakt vy på",
+      "compact_view_aria_label_off": "Kompakt vy av",
+      "show_name": "Visa namn",
+      "show_name_aria_label_on": "Visning av namn på",
+      "show_name_aria_label_off": "Visning av namn av",
+      "show_toolbar": "Visa verktygsfält",
+      "show_toolbar_aria_label_on": "Visning av verktygsfält på",
+      "show_toolbar_aria_label_off": "Visning av verktygsfält av",
+      "code_only_note": "Obs: Inställning av åtgärder och statistikalternativ är uteslutande tillgängliga med Code Editor."
+    }
+  }
